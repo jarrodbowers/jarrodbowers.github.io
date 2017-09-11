@@ -5,7 +5,7 @@ This page is for my school projects.
 I am currently attending **Northwest Vista College**, seeking an associates in **Game Development**.
 
 ### Contact Me
-1. By Phone: (***)***_****
+1. By Phone: N/A
 2. By Email: jarrod-bowers@DontEmailMePlease
 
 #### Showcase of Work
