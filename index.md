@@ -1,3 +1,6 @@
+Title: Welcome to jarrodbowers’s homepage!
+Description: My page for school projects
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jarrodbowers/jarrodbowers.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
