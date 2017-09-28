@@ -1,6 +1,6 @@
 # Case Study of Heroku
 
-This document if for the casestudy/research of how we may use Heroku for Continuous Integration in each of the testing environments.
+This document if for the case study/research of how we may use Heroku for Continuous Integration in each of the testing environments.
 
 ## Types of Testing Environments
 
@@ -20,6 +20,6 @@ Heroku allows developers in the Dev Environment to divide or branch work being d
 
 In the QA Environment, Heroku may be useful with continuous integration as the build and testing can be automated. Smoke/Regression tests that come back right away with no new issues can be committed straight to the build automtically if they pass. If they do not pass, Heroku will notify you and you may revert back to the previopusly working product.
 
-The Staging/Pilot Environment is only for working code that has been through QA and is ready for user validation and training. Heroku has the ability to separate each of the Testing environments, so staging/pre-production is simple. The main branch is always deployable, so staging can always be done on the main branch.
+The Staging/Pilot Environment is only for working code that has been through QA and is ready for user validation and training. Heroku has the ability to separate each of the Testing environments, so staging/pre-production is simple. The main branch is always deployable, so staging can always be done on the main branch. Heroku gives you a unique url if needed to test the functionality of the game or software, and offers review apps for multiple developer insight and decision making.
 
-Once in the Production Environment, developers may test the software with real data. Heroku gives you a unique url if needed to test the functionality of the game or software. The product is ready to go by this time and Heroku can publish your work for you.
+Once in the Production Environment, developers may test the software with real data. The product is ready to go by this time and Heroku can publish your work for you. Concluding, any and all changes by you or your team are tracked and displayed, there is complete clearity and confidence in the creation of a large project knowing that everything is accounted for and everyone is in the loop on these changes.
