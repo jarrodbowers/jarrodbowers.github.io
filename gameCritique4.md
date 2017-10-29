@@ -1,5 +1,6 @@
 # Game Critique 4
-This is a game review for our third weekly game critique due 10/19/17.
+This is a game review for our third weekly game critique due 10/26/17.
+
 Game Title
 
 ## Game Title
