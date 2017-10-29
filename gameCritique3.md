@@ -32,6 +32,6 @@ Multiplayer
 ### Controls
 ZXCV + Arrows or WASD + HJKL or WASD + Mouse
 # Bugs
-What bugs happened during your critique.
+Not sure if its a bug, but I couldn't figure out how to use the special moves in a drection that was pedictable. I was lucky if it went in the direction I wanted it to even while pressing the arrow key aiming that direction.
 # Final Thoughts
-One paragraph summary of your overall viewpoint of the game.
+My overall experience was positive. I was able to play the ame quickly and learned to use the "legends" fairly easy. While the button mshing was evident, I could see how eventually adapting to the response time of the animations and movement of players could make the game more competitive and skill based. Adding a tutorial or initial intro to playing and using controls would be nice but not having it doesn't hurt the games appeal. I like the game and will continue playing for longer than 30 minutes.
