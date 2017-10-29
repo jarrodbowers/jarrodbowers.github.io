@@ -1,5 +1,5 @@
 # Game Critique 3
-This is a game review for our second weekly game critique due 9/21/17.
+This is a game review for our third weekly game critique due 10/19/17.
 ## Game Title
 -Brawlhalla
 ## Game Type
