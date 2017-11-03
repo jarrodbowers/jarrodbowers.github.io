@@ -23,3 +23,7 @@ Yes, this tool automatically records test results, screenshots, and video for th
 Yes, through continuous integration, you may add defects and reporting tools like JIRA to Automate-On.
 
 ## If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
+Yes, it works with web-based tools including Selenium WebDriver, Appium and JMeter. Although it is meant to be a codeless tool, so it doesn't mention what languages.
+
+### Source
+http://www.softcrylic.com/automateon/ Accessed on 11/02/17.
