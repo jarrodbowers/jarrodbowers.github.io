@@ -1,3 +1,0 @@
-# Badboy Testing Tutorial
-
-![Screenshot]()
