@@ -2,47 +2,42 @@
 This is a game review for our ninth weekly game critique due 12/07/17.
 
 ## Game Title
-TOXIKK
+Words With Friends 2
 
 ## Game Type
-The genre and play style of TOXIKK is first-person shooter MOBA.
+The genre and play style of WWF2 is casual mobile vocabulary game.
 
 ## Platform
-PC
+Iphone/Android/Mobile/Tablet
 
 ## Game Rating
-TOXIKK has a metacritic score, the game seems to generally be liked by most who play it.
+None
 
 ## Publisher
-Reakktor Studios
+Zynga
 
 ## Developer
-Reakktor Studios
+Zynga
 
 ## Publishing Date
-Sep 10, 2016
+November 2017
 
 # Synopsis
-TOXIKK is a first person shooter game that is based off classic 90's shooters and merged
-with newer game mechanics and technology.
+WWF2 is a fun word game thats tests a player's vocabulary and spelling skills against other people and computers.
 
 # Game Play Summary
-This is a first person shooter with single player missions called 'contracts' and a MOBA 
-style online multiplayer versus mode boasting a 16 player capable map/match. TOXIKK has 
-creative takes on weapons and armor customization, a level system, tutorial, and earned 
-customizeables.
+The player is gien seven letters at the start and is replenished to seven each turn if they use any number of letters. They must spell words to rack up points and defeat the other player before the letters run out. Using different tiles that have more points or affect the number of points you get, you can strategically aim for taking the lead or recovering from a losing battle of intelligence.
 
 ## Playability
-Easy, fun tutorial featuring a time trial with hidden shortcuts.
+Fun, easy, just drag letters to make words.
 
 ### Single/Multiplayer
 Both
 
 ### Controls
-Arrows, Space Bar and Mouse or VR
-
+Finger or stylus
 # Bugs
 No bugs
 
 # Final Thoughts
-
+WWF2 is a challenging game for those with a lack of vocabulary. While it is a chance to learn more, it mostly just has you placing tiles until it makes a word. The game lets you know if its not a word, and you have to click the word to actually see its definition, which is usually just an explination of how they don't have a definition but it's a valid WWF word. I would say they could make it better but it's always fun calling out the person for making up a word.
